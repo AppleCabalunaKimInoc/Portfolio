@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(image.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	position: center;
+	 background-size: cover;
+}
+.letter{
+	text-align: center;
+	margin-top: 150px;
+	color: white;
+}
+
+}
