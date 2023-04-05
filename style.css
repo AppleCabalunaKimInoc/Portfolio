@@ -20,12 +20,12 @@
   
   .skill-set li:hover
   {
-      background-color: palevioletred;
+      background:green;
   }
   
   h1
   {
-      color: rgba(0, 0, 0, 0.342);
+      color:rgba(0,0,0,.75);
   }
   
   .wrapper
@@ -35,8 +35,8 @@
   
   .left
   {
-      background-color:skyblue;
-      border-right:1px solid #f3ecece7;
+      background-color:white;
+      border-right:1px solid rgba(243, 236, 236, 0.904);
       float:right;
       height:100%;
       margin-left:-1px;
@@ -57,7 +57,7 @@
   
   .name-hero
   {
-      background:#1401016c;
+      background:rgba(20, 1, 1, 0.705);
       bottom:0;
       height:300px;
       left:0;
@@ -71,7 +71,7 @@
   
   .me-img
   {
-      background:url("images/apple.jpg") no-repeat center center ;
+      background:url("images/pic3.jpg") no-repeat center center ;
       background-size:100%;.com/
     background-position:0px;
       border-radius:100%;
@@ -90,7 +90,7 @@
   
   .name-hero h1 em
   {
-      color:rgba(0, 0, 0, 0.342);
+      color:rgba(0,0,0,.3);
       font-style:normal;
       font-weight:700;
   }
@@ -148,7 +148,7 @@
   
   .skill-set li
   {
-      background:rgba(0, 0, 0, 0.432);
+      background:rgba(0,0,0,.75);
       border-radius:5px;
       color:#FFF;
       display:inline-block;
