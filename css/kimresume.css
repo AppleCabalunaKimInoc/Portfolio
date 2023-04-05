@@ -70,7 +70,8 @@ h1
 
 .me-img
 {
-  background:url(me.jpg) no-repeat center center ;
+  background:url(/
+    images/kim.jpg) no-repeat center center ;
   background-size:100%;
   background-position:0px;
   border-radius:100%;
