@@ -1,11 +1,35 @@
-.pic {
-    width: 200px;
-    height: 200px;
-    align-items: center;
+body{
+    background-color: pink;
+}
+th{
+    text-align: center;
+   background-color:gray;
+   
+}
+table{
+  
+    
+    width:100%;
+   
+}
+td{
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 50%;
+    padding-left: 200px;
+   
+   
+}
+h1{
+    font-size: 40px;
+    text-align: right;
+    text-indent: 50px;
+   
+}
+h3{
+    font-size: 30px;
+    text-align: right;
 }
 
-.pic1 {
-    width: 200px;
-    height: 200px;
-    align-items: center;
-}
